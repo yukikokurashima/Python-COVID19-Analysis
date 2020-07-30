@@ -1,2 +1,2 @@
 # Python-COVID19-Analysis
-# Confirmed Cases in US, Global
+Confirmed Cases in the States and Global
